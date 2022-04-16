@@ -1,0 +1,90 @@
+[
+	{
+		"id": 1,
+		"name": "Apple laptop",
+		"brand": "apple",
+		"series": "MacbookPro series",
+		"price": 1000,
+		"img": "https://i.ibb.co/XsRQFSB/16.png"
+	},
+	{
+		"id": 2,
+		"name": "Hp pevilion laptop",
+		"brand": "hp",
+		"series": "Hp business series",
+		"price": 700,
+		"img": "https://i.ibb.co/L5VGMFD/15.png"
+	},
+	{
+		"id": 3,
+		"name": "Dell  laptop",
+		"brand": "dell",
+		"series": "Dell Inspiron series",
+		"price": 800,
+		"img": "https://i.ibb.co/dkhDV8c/14.png"
+	},
+	{
+		"id": 4,
+		"name": "Acer laptop",
+		"brand": "acer",
+		"series": "Ellite series",
+		"price": 500,
+		"img": "https://i.ibb.co/hsk6xNR/13.png"
+	},
+	{
+		"id": 5,
+		"name": "Asus laptop",
+		"brand": "asus",
+		"series": "Asus business series",
+		"price": 600,
+		"img": "https://i.ibb.co/r0JpSGF/12.png"
+	},
+	{
+		"id": 6,
+		"name": "Google laptop",
+		"brand": "google",
+		"series": "Ellite series",
+		"price": 900,
+		"img": "https://i.ibb.co/MVJPRjf/11.png"
+	},
+	{
+		"id": 7,
+		"name": "Apple laptop",
+		"brand": "apple",
+		"series": "Economy series",
+		"price": 800,
+		"img": "https://i.ibb.co/ZG2MZnV/10.png"
+	},
+	{
+		"id": 8,
+		"name": "Hp laptop",
+		"brand": "hp",
+		"series": "Economy series",
+		"price": 800,
+		"img": "https://i.ibb.co/MBMcSgP/9.png"
+	},
+	{
+		"id": 9,
+		"name": "Dell laptop",
+		"brand": "dell",
+		"series": "Economy series",
+		"price": 700,
+		"img": "https://i.ibb.co/S5JYRRr/8.png"
+	},
+	{
+		"id": 10,
+		"name": "Acer laptop",
+		"brand": "acer",
+		"series": "Economy series",
+		"price": 600,
+		"img": "https://i.ibb.co/TrN0HWD/7.png"
+	},
+	{
+		"id": 11,
+		"name": "Asus laptop",
+		"brand": "asus",
+		"series": "Economy series",
+		"price": 600,
+		"img": "https://i.ibb.co/1f1f5d1/6.png"
+	}
+]

@@ -1,0 +1,29 @@
+.review{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid gainsboro;
+    padding:5px;
+    margin-right: 10px;
+}
+.reviewer img{
+    border-radius: 50%;
+    width:60px;
+    height: 60px;
+}
+.reviewInfo{
+    margin-left: 10px;
+}
+.reviewInfo p{
+    line-height: 100%;
+}
+.slick-prev,.slick-next {
+    background:black;
+    color:white;
+    visibility:visible;
+}
+.slick-prev:hover,.slick-next:hover {
+    background:black;
+    color:white;
+    opacity: .7;
+}

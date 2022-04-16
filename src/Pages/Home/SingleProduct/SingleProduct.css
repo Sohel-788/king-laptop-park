@@ -1,0 +1,25 @@
+.card-style{
+    margin:20px 5px;
+    padding:5px;
+    box-shadow: 4px 4px 10px gainsboro;
+}
+.card-style:hover{
+    box-shadow: 4px 4px 10px gray;
+}
+
+.titleDesign {
+    position: relative;
+    display: inline-block;
+  }
+  
+.titleDesign:after {
+    width:250px;
+    content:"";
+    position: absolute;
+    bottom: -15px;
+    left: 0;
+    right: 0;
+    height: 0.5em;
+    border-top: 3px solid goldenrod;
+    z-index: -1;
+  }
